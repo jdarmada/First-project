@@ -18,7 +18,7 @@ color: purple;
 .box-2{
     border: 3px dotted #ccc;
     margin: 20px;
-    max-width: fit-content;
+    max-width: 100%;
 }
 .categories{
     border: 1px grey solid;
