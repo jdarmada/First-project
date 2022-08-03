@@ -32,10 +32,11 @@ color: purple;
 .categories ul{
     padding:0;
     list-style: square;
+    width: auto;
 
 }
 
-.box-small{
+.box-large{
     border: 4px solid red;
     display: flex;
     width: 100px;
